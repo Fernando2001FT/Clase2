@@ -1,0 +1,5 @@
+C:\Users\Tipan\Desktop\Ejer 2022 2\EjerciciosOCP\obj\Debug\net5.0\EjerciciosOCP.csprojAssemblyReference.cache
+C:\Users\Tipan\Desktop\Ejer 2022 2\EjerciciosOCP\obj\Debug\net5.0\EjerciciosOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipan\Desktop\Ejer 2022 2\EjerciciosOCP\obj\Debug\net5.0\EjerciciosOCP.AssemblyInfoInputs.cache
+C:\Users\Tipan\Desktop\Ejer 2022 2\EjerciciosOCP\obj\Debug\net5.0\EjerciciosOCP.AssemblyInfo.cs
+C:\Users\Tipan\Desktop\Ejer 2022 2\EjerciciosOCP\obj\Debug\net5.0\EjerciciosOCP.csproj.CoreCompileInputs.cache
